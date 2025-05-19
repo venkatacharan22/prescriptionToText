@@ -36,3 +36,15 @@ ENV/
 # OS specific
 .DS_Store
 Thumbs.db
+
+# Image files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.webp
+
+# WhatsApp images
+WhatsApp Image*
